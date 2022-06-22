@@ -1,0 +1,5 @@
+term,int_rate,emp_length,home_ownership,annual_inc,verification_status,issue_d,dti,inq_last_6mths,revol_util,initial_list_status,out_prncp,total_rec_prncp,total_rec_late_fee,recoveries,collection_recovery_fee,last_pymnt_amnt,last_credit_pull_d
+ 36 months,30,10,RENT,8000000,Verified,15,50,8,900,f,35000,36000,360,34000,7100,37000,15
+ 60 months,5,1,OWN,1000,Source Verified,0,0,5,0,w,0,0,0,0,0,0,0
+ 60 months,0,1,MORTGAGE,0,Not Verified,0,0,0,0,w,0,0,0,0,0,0,0
+ 60 months,0,1,OTHER,0,Not Verified,0,0,0,0,w,0,0,0,0,0,0,0
